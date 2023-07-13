@@ -1,2 +1,1 @@
-fastapi[all]==0.100.0
 pandas==1.5.3
